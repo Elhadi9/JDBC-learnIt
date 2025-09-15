@@ -84,3 +84,46 @@ Employee employee = new EmployeeBuilder()
     .setJoinDate(new java.sql.Date(System.currentTimeMillis()))
     .setSalary(25000d)
     .build();
+
+
+
+📝 Example Output
+
+When running Main.java, you should see:
+✅ Database connection established successfully.
+Employee saved successfully!
+
+
+🧩 Technologies Used
+
+Java 17
+
+Maven
+
+MySQL / MariaDB
+
+JDBC
+
+Builder Design Pattern
+
+Git + SSH Authentication
+
+
+
+🤝 Contribution
+
+Contributions are welcome!
+Feel free to:
+
+Fork the repo
+
+Create a new branch
+
+Submit a pull request
+
+
+
+👤 Author
+
+Elhadi Muhamedd
+GitHub Profile
